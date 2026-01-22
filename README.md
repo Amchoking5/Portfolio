@@ -142,6 +142,7 @@
 > 주로 C, C++, Python을 활용해 문제를 해결하였습니다.  
 >
 > <img src="https://github.com/user-attachments/assets/7b5b50cb-7615-4dee-bd7c-af8989ed55ff" style="margin-top: 50px" />  
+>
 >> [참고 자료](https://github.com/Amchoking5/Problem_Solving)
 
 <br />
