@@ -28,6 +28,8 @@
 > 솔리드이엔지 AI부서에서 인턴 및 프리랜서로 근무했습니다.(2024.06 ~ 2025.05)  
 > ***프로젝트 MVP 핵심 알고리즘 개발***을 맡아 진행했습니다.  
 
+<br />
+
 ## 1. 💬 세종시 챗봇 AI 충녕
 
 > 세종시 관련 데이터를 스스로 학습하여 답변을 제공해주는 시스템입니다.  
@@ -44,9 +46,9 @@
 >> - Language : javascript, typescript
 >> - Skill : React.js
 >>
->> [프로젝트 상세 설명]()
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EC%B1%97%EB%B4%87%20AI%20%EC%B6%A9%EB%85%95)
 
->> [참고 자료] (https://aichat.sejong.go.kr/)
+>> [참고 자료](https://aichat.sejong.go.kr/)
 
 <br />
 
@@ -68,7 +70,7 @@
 >> - Language : javascript, typescript
 >> - Skill : React.js
 >>
->> [프로젝트 상세 설명]()
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/KAF%20%EB%B0%A9%EC%82%AC%20%EA%B3%B5%EC%9E%A5%20%EB%A7%A4%EB%89%B4%EC%96%BC%20%EC%B1%97%EB%B4%87)
 
 <br />
 
@@ -90,7 +92,7 @@
 >> - Language : python, javascript
 >> - Skill : gradio, react.js
 >>
->> [프로젝트 상세 설명]()
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/%EB%A7%88%EC%9D%8C%EB%8F%8C%EB%B4%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 <br />
 
@@ -134,6 +136,7 @@
 
 > Baekjoon과 Leetcode에서 문제를 풀며 문제해결능력을 길렀습니다.  
 > 주로 C, C++, Python을 활용해 문제를 해결하였습니다.  
+>
 > <img src="https://github.com/user-attachments/assets/7b5b50cb-7615-4dee-bd7c-af8989ed55ff" style="margin-top: 50px" />
 >> [참고 자료](https://github.com/Amchoking5/Problem_Solving)
 
