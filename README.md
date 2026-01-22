@@ -101,6 +101,8 @@
 > 대학생활에서 진행한 팀 프로젝트입니다.  
 > 동아리 및 연구 수업에서 진행하였습니다.  
 
+<br />
+
 ## 1. 🍎 Fruit box RL
 
 > ***심층강화학습과 게임AI*** 강의에서 진행한 팀 프로젝트입니다.  
@@ -116,6 +118,8 @@
 >> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Fruit%20Box)
 >
 >> [참고 자료](https://www.youtube.com/watch?v=gtc1nRaxyMQ)
+
+<br />
 
 ## 2. 🤖 개미 로봇
 
@@ -137,8 +141,10 @@
 > Baekjoon과 Leetcode에서 문제를 풀며 문제해결능력을 길렀습니다.  
 > 주로 C, C++, Python을 활용해 문제를 해결하였습니다.  
 >
-> <img src="https://github.com/user-attachments/assets/7b5b50cb-7615-4dee-bd7c-af8989ed55ff" style="margin-top: 50px" />
+> <img src="https://github.com/user-attachments/assets/7b5b50cb-7615-4dee-bd7c-af8989ed55ff" style="margin-top: 50px" />  
 >> [참고 자료](https://github.com/Amchoking5/Problem_Solving)
+
+<br />
 
 # 📞 Contact
 
