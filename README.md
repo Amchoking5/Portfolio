@@ -140,7 +140,7 @@
 # 📝 Problem Solving
 
 > Baekjoon과 Leetcode에서 문제를 풀며 문제해결능력을 길렀습니다.  
-> 주로 C, C++, Python을 활용해 문제를 해결하였습니다.
+> 주로 C, C++, Python을 활용해 문제를 해결하였습니다.  
 > 꾸준한 공부를 통해 백준 프레티넘 등급을 달성하였습니다.  
 >
 > <img src="https://github.com/user-attachments/assets/7b5b50cb-7615-4dee-bd7c-af8989ed55ff" style="margin-top: 50px" />  
