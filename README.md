@@ -27,9 +27,12 @@
 
 > 인턴활동하며 진행했던 주요 프로젝트입니다.  
 > 솔리드이엔지 AI부서에서 인턴 및 프리랜서로 근무했습니다.(2024.06 ~ 2025.05)  
+> 네이버클라우드 Video Generation부서에서 인턴으로 근무했습니다.(2026.02 ~ 2026.08) 
 > ***프로젝트 MVP 핵심 알고리즘 개발***을 맡아 진행했습니다.  
 
 <br />
+
+# 1. 솔리드이엔지 인턴
 
 ## 1. 💬 세종시 챗봇 AI 충녕
 
@@ -37,6 +40,7 @@
 > Langchain과 RAG를 활용해 질문 query와 관련된 문장을 찾고, LLM을 활용해 답변을 생성합니다.  
 >
 > - 개발기간 : 2024.06 ~ 2024.10
+> - 개발인원 : 3명
 > - 핵심 역할 : 답변 정확도 향상 및 할루시네이션 억제 (전처리 구조 개선, 코사인 유사도 Top k 적용, Threshold 적용)
 >
 >> Back-end
@@ -48,7 +52,6 @@
 >> - Skill : React.js
 >>
 >> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/%EC%84%B8%EC%A2%85%EC%8B%9C%20%EC%B1%97%EB%B4%87%20AI%20%EC%B6%A9%EB%85%95)
-
 >> [참고 자료](https://aichat.sejong.go.kr/)
 
 <br />
@@ -61,6 +64,7 @@
 > 관리자 페이지에서 파일 업로드, 검색 삭제 가능하며, 피드백 페이지에서 잘못된 답변을 수정하여 다음 출력을 개선할 수 있습니다.  
 >
 > - 개발기간 : 2024.11 ~ 2025.01
+> - 개발인원 : 3명
 > - 핵심 역할 : 관리자 및 피드백 페이지 개발 (Backend, Frontend), 참고자료 및 이미지 출력을 위한 DB 구조 변경
 >
 >> Back-end
@@ -83,6 +87,7 @@
 > 대화 내용은 이미지 생성형 AI를 사용해 그림일기로 만들어지며, 갤러리에서 확인할 수 있습니다.   
 >
 > - 개발기간 : 2024.02 ~ 2025.05
+> - 개발인원 : 3명
 > - 핵심 역할 : 멀티턴 LLM, Stable diffusion 3 API 서버 연결, 캐릭터 일관성 향상(프롬프트 딕셔너리, 사용자별 Lora 생성 및 관리)
 >
 >> Back-end
@@ -94,6 +99,75 @@
 >> - Skill : gradio, react.js
 >>
 >> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/%EB%A7%88%EC%9D%8C%EB%8F%8C%EB%B4%84%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+
+<br />
+
+# 2. 네이버클라우드 인턴
+
+## 1. 📊 QA 데이터 수집 웹 페이지 : Annohub
+
+> 경쟁사 영상 생성 모델과 비교하여 성능을 파악하기 위한 벤치마크 QA 페이지입니다.   
+> Java Script와 Node JS를 사용해 프론트엔드와 벡엔드를 구성했습니다.   
+> PairWise, PointWise 방식으로 각각 QA의 점수를 측정하고, 결과를 Chroma DB에 저장합니다.   
+>
+> - 개발기간 : 2026.02 ~ 2026.03
+> - 개발인원 : 1명 + 멘토
+> - 핵심 역할 : QA 평가 데이터 수집 파이프라인 구축 및 웹 페이지 제작
+>
+>> Back-end
+>> - Language : javascript
+>> - Skill : Node.js, Mongo DB, 공공데이터 포탈 API
+>
+>> Front-end
+>> - Language : javascript, typescript
+>> - Skill : React.js
+>>
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/Annohub)
+
+<br />
+
+## 2. ⚙️ 스스로 개선하는 AI : Necro Flow
+
+> 영상생성 모델을 고도화 하기위한 프로젝트입니다.   
+> 구간별로 체크포인트를 만들어 이전 체크포인트 혹은 타겟 체크포인트의 영상생성 모델과 비교하여 스스로 성능을 개선합니다.   
+> Unified reward model을 사용해 두 영상을 비교하여, AI로 약점을 분석한 뒤, 오픈소스 사이트에서 해당 약점을 보완하기 위한 데이터 셋을 추가 수집하여 재학습합니다.   
+> 로그를 통해 진행상황 및 AI분석 리포트, 데이터 수집 관계도 등을 확인할 수 있습니다.   
+>
+> - 개발기간 : 2026.03 ~ 2025.06
+> - 개발인원 : 1인 + 멘토
+> - 핵심 역할 : 전체 파이프라인 설계, 기존 코드기반 작업들을 fastapi 서버를 활용하여 api통신으로 결합
+>
+>> Back-end
+>> - Language : python3  
+>> - Skill : Fastapi, Chroma DB, Mongo DB, langchain, Lightx2v, Unified reward model, face detection, OCR, api data crawl, langchain
+>
+>> Front-end
+>> - Language : javascript, typescript
+>> - Skill : React.js, Vite
+>>
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/blob/main/Intern%20Project/NecroFlow/README.md)
+
+<br />
+
+## 3. 🎨 광고 영상 생성 프로젝트 : ADGen
+
+> 네이버 영상생성 AI를 활용한 광고 생성 프로젝트입니다.    
+> 광고 URL을 입력하면 데이터를 수집해 핵심 정보들을 수집하여, 선택한 광고전략과 목표시간에 맞는 스토리보드를 구성합니다.   
+> 이후 광고 레퍼런스를 분석하여 시작이미지를 생성한 뒤 I2V로 광고영상을 생성합니다.   
+>
+> - 개발기간 : 2026.07 ~ 2026.08
+> - 개발인원 : 1인 + 멘토
+> - 핵심 역할 : 영상생성 일관성 유지, AI 스토리보드 및 광고 생성 파이프라인 설계
+>
+>> Back-end
+>> - Language : python3  
+>> - Skill : Fastapi, Chat GPT, langchain, lightx2v
+>
+>> Front-end
+>> - Language : javascript, typescript
+>> - Skill : react.js, vite
+>>
+>> [프로젝트 상세 설명](https://github.com/Amchoking5/Team_Project/tree/main/Intern%20Project/ADGen)
 
 <br />
 
